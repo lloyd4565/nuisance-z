@@ -48,7 +48,7 @@ kLogo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/giphy.gif?cid=6c09b952c
 .mp4 version available on local file
 -->
 
-  <h1>🐺 WhatsAsena</h1>
+  <h1>🐙 nuisance z</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
@@ -88,13 +88,13 @@ kLogo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/giphy.gif?cid=6c09b952c
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lloyd4565/nuisance x)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lloyd4565/nuisance z)
 
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
 
 ### The Hard Method (Not Recommend)
 ```js
-$ git clone https://github.com/lloyd4565/nuisance x.git
+$ git clone https://github.com/lloyd4565/nuisance z.git
 $ cd WhatsAsenaDuplicated
 $ npm i
 $ nano config.env
