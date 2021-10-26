@@ -1,8 +1,8 @@
 ## Thanks for Everything 
 ### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
+- [lloyd](https://github.com/lloyd4565)
+- [@public-nuisance](https://t.me/lloyd4565)
 
 <p align="center">
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
@@ -42,41 +42,7 @@
 </p>
 
 ```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
-
-WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır.
-Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
-WhatsAsena'yı para karşılığı pazarlamak, kullanıma sunmak yahut herhangi bir maddi değere sahip
-birşey ile satışa sunmak kesinlikle yasaktır. Doğabilecek tüm yasal soruşturmalardan
-kullanıcı sorumludur.
-
-WhatsAsena - Asena Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
-
-<div align="center">
-
-  ![WhatsAsena Logo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/giphy.gif?cid=6c09b952ca458f6d0fdd2de872ae4335ca70b7c23958106f&rid=giphy.gif)
+kLogo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/giphy.gif?cid=6c09b952ca458f6d0fdd2de872ae4335ca70b7c23958106f&rid=giphy.gif)
 
 <!---
 .mp4 version available on local file
@@ -122,13 +88,13 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lloyd4565/nuisance x)
 
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
 
 ### The Hard Method (Not Recommend)
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
+$ git clone https://github.com/lloyd4565/nuisance x.git
 $ cd WhatsAsenaDuplicated
 $ npm i
 $ nano config.env
