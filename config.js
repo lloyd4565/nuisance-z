@@ -59,8 +59,8 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "905524317852-1612300121",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274",
-    SUPPORT4: "905511384572-1625319286"
+    SUPPORT: "https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4",
+    SUPPORT2: "https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4",
+    SUPPORT3: "https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4",
+    SUPPORT4: "https://chat.whatsapp.com/IRbdcY5Kxr0IIxfWhlpfr4"
 };
